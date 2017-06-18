@@ -1,0 +1,36 @@
+
+.sectionfirst{
+    padding-top: 80px;
+}
+
+.sectionfirst .epura{
+    border: solid black 1px;
+}
+
+.sectionfirst .ciel{
+    font-weight: bold;
+    border: solid black 1px;
+
+}
+
+.sectionfirst .starbucks{
+    font-size: 30px;
+    border: solid black 1px;
+
+}
+
+.sectionfirst .ciel img{
+    border: none;
+}
+
+#imagenproyecto{
+
+    width: "100%";
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+/* */
+#informacion {
+    width: "30.8%";
+}
